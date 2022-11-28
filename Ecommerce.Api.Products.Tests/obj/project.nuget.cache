@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D63MZ58qqJjGSqb3SU4ME1YGKi7lsRC620xDaD2sAylKkGoZptkTr5P5QhD1muRNiRGAatNSZFV+810EcPbFlA==",
+  "dgSpecHash": "cOg+FR1VdQrM7nRVgWxuPHVCPDvw/a2dtxjaFDW6f3rpXzhBVlbQ5P2iagvnpOaGmmjdd0TtLag5kPUZH7Se7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1950699\\Documents\\GitHub\\WebProg3\\Ecommerce\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj",
+  "projectFilePath": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1950699\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\1950699\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

@@ -1592,11 +1592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1950699\\Documents\\GitHub\\WebProg3\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
+      "projectUniqueName": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
       "projectName": "Ecommerce.Api.Search",
-      "projectPath": "C:\\Users\\1950699\\Documents\\GitHub\\WebProg3\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
+      "projectPath": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
       "packagesPath": "C:\\Users\\1950699\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1950699\\Documents\\GitHub\\WebProg3\\Ecommerce\\Ecommerce.Api.Search\\obj\\",
+      "outputPath": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Search\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

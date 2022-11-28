@@ -4345,11 +4345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1950699\\Documents\\GitHub\\WebProg3\\Ecommerce\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj",
       "projectName": "Ecommerce.Api.Products.Tests",
-      "projectPath": "C:\\Users\\1950699\\Documents\\GitHub\\WebProg3\\Ecommerce\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj",
+      "projectPath": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj",
       "packagesPath": "C:\\Users\\1950699\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1950699\\Documents\\GitHub\\WebProg3\\Ecommerce\\Ecommerce.Api.Products.Tests\\obj\\",
+      "outputPath": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Products.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -4373,8 +4373,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\1950699\\Documents\\GitHub\\WebProg3\\Ecommerce\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj": {
-              "projectPath": "C:\\Users\\1950699\\Documents\\GitHub\\WebProg3\\Ecommerce\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj"
+            "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj": {
+              "projectPath": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj"
             }
           }
         }
