@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Search", "Eco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Api.Orders", "ECommerce.Api.Orders\ECommerce.Api.Orders.csproj", "{3E75D4B8-FE5C-4903-9E07-36B60744AC4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Products.Tests", "Ecommerce.Api.Products.Tests\Ecommerce.Api.Products.Tests.csproj", "{4AF1E9B6-5B90-4FAF-960E-28E189BBBCAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Products.Tests", "Ecommerce.Api.Products.Tests\Ecommerce.Api.Products.Tests.csproj", "{4AF1E9B6-5B90-4FAF-960E-28E189BBBCAE}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{D12702E7-D5ED-48B5-BA74-DFD0BD58C79D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4AF1E9B6-5B90-4FAF-960E-28E189BBBCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AF1E9B6-5B90-4FAF-960E-28E189BBBCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AF1E9B6-5B90-4FAF-960E-28E189BBBCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12702E7-D5ED-48B5-BA74-DFD0BD58C79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12702E7-D5ED-48B5-BA74-DFD0BD58C79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12702E7-D5ED-48B5-BA74-DFD0BD58C79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12702E7-D5ED-48B5-BA74-DFD0BD58C79D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

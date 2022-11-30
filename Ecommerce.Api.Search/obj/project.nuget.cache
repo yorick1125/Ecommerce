@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "P7JCZrFk592b+yfAu2MX49pmqOQ9Mfiy2mcI3Chf2Koani1PN50VZBnkrMAQiIdevroimj3BJwUSP8/vvBLJLA==",
+  "dgSpecHash": "wZeFU4cpSbTb1N2GzihTDzSQGYO+IRrtTP09v/UW+AZ9O/M9o9KIhpsTkrNXvOx00E4ei6LFj88eud1++wpwNA==",
   "success": true,
   "projectFilePath": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "C:\\Users\\1950699\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.31\\microsoft.extensions.primitives.3.1.31.nupkg.sha512",
     "C:\\Users\\1950699\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\1950699\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\1950699\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\1950699\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\1950699\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
     "C:\\Users\\1950699\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
