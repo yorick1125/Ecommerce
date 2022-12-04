@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Customers\\Ecommerce.Api.Customers.csproj": {}
+    "C:\\Users\\Yoric\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Customers\\Ecommerce.Api.Customers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Customers\\Ecommerce.Api.Customers.csproj": {
+    "C:\\Users\\Yoric\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Customers\\Ecommerce.Api.Customers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Customers\\Ecommerce.Api.Customers.csproj",
+        "projectUniqueName": "C:\\Users\\Yoric\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Customers\\Ecommerce.Api.Customers.csproj",
         "projectName": "Ecommerce.Api.Customers",
-        "projectPath": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Customers\\Ecommerce.Api.Customers.csproj",
-        "packagesPath": "C:\\Users\\1950699\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1950699\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Customers\\obj\\",
+        "projectPath": "C:\\Users\\Yoric\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Customers\\Ecommerce.Api.Customers.csproj",
+        "packagesPath": "C:\\Users\\Yoric\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yoric\\Documents\\GitHub\\Ecommerce\\Ecommerce.Api.Customers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\1950699\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Yoric\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -28,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }

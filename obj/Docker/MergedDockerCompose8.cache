@@ -1,8 +1,8 @@
-name: dockercompose14837674818214393122
+name: dockercompose8361375547763841846
 services:
   ecommerce.api.customers:
     build:
-      context: C:\Users\1950699\Documents\GitHub\Ecommerce
+      context: C:\Users\Yoric\Documents\GitHub\WebProg3\Ecommerce
       dockerfile: Ecommerce.Api.Customers\Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development
@@ -15,7 +15,7 @@ services:
       protocol: tcp
   ecommerce.api.orders:
     build:
-      context: C:\Users\1950699\Documents\GitHub\Ecommerce
+      context: C:\Users\Yoric\Documents\GitHub\WebProg3\Ecommerce
       dockerfile: ECommerce.Api.Orders\Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development
@@ -28,7 +28,7 @@ services:
       protocol: tcp
   ecommerce.api.products:
     build:
-      context: C:\Users\1950699\Documents\GitHub\Ecommerce
+      context: C:\Users\Yoric\Documents\GitHub\WebProg3\Ecommerce
       dockerfile: Ecommerce.Api.Products\Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development
@@ -41,7 +41,7 @@ services:
       protocol: tcp
   ecommerce.api.search:
     build:
-      context: C:\Users\1950699\Documents\GitHub\Ecommerce
+      context: C:\Users\Yoric\Documents\GitHub\WebProg3\Ecommerce
       dockerfile: Ecommerce.Api.Search\Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development
@@ -54,4 +54,4 @@ services:
       protocol: tcp
 networks:
   default:
-    name: dockercompose14837674818214393122_default
+    name: dockercompose8361375547763841846_default

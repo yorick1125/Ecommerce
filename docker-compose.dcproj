@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Windows</DockerTargetOS>
-    <ProjectGuid>d12702e7-d5ed-48b5-ba74-dfd0bd58c79d</ProjectGuid>
+    <ProjectGuid>36d9615c-7021-4395-888a-72306c0bde85</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://{ServiceIPAddress}{ServicePort}/api/customers</DockerServiceUrl>
     <DockerServiceName>ecommerce.api.customers</DockerServiceName>
